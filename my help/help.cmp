@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XMLConfig><info>Chm Maker project</info>
+<group name="Contents">
+ <group name="0">
+  <param name="Caption">Introduction</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\Documents and Settings\Roshan Bhatta\Desktop\my help\introduction.html</param>
+ </group>
+ <group name="1">
+  <param name="Caption">Description</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\Documents and Settings\Roshan Bhatta\Desktop\my help\close.html</param>
+ </group>
+ <group name="2">
+  <param name="Caption">After Conversion</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\Documents and Settings\Roshan Bhatta\Desktop\my help\close.html</param>
+ </group>
+ <group name="3">
+  <param name="Caption">Change Encoder Settings</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\Documents and Settings\Roshan Bhatta\Desktop\my help\endocer.html</param>
+ </group>
+ <group name="4">
+  <param name="Caption">Author</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\Documents and Settings\Roshan Bhatta\Desktop\my help\author.html</param>
+ </group>
+ <param name="Count">5</param>
+</group>
+<group name="Keywords">
+ <param name="Count">0</param>
+</group>
+<group name="KeywordsFinder">
+ <param name="UseMeta">1</param>
+ <param name="UseBold">1</param>
+ <param name="UseItalic">0</param>
+ <param name="UseUnder">0</param>
+ <param name="UseHTag">1</param>
+ <param name="UseTabHeader">0</param>
+ <param name="MaxKeyLength">32</param>
+ <param name="LiveUpdate">0</param>
+</group>
+<group name="Customize">
+ <param name="MainTitle"></param>
+ <param name="DefaultPage"></param>
+ <param name="Left">0</param>
+ <param name="Top">0</param>
+ <param name="Width">0</param>
+ <param name="Heigth">0</param>
+ <param name="HideShow">1</param>
+ <param name="Back">1</param>
+ <param name="Forward">1</param>
+ <param name="Stop">0</param>
+ <param name="Refresh">0</param>
+ <param name="Options">1</param>
+ <param name="Print">1</param>
+ <param name="Font">0</param>
+ <param name="Locate">0</param>
+ <param name="Home">0</param>
+ <param name="HomePage"></param>
+ <param name="Jump1">0</param>
+ <param name="Jump1Page"></param>
+ <param name="Jump1Title"></param>
+ <param name="Jump2">0</param>
+ <param name="Jump2Page"></param>
+ <param name="Jump2Title"></param>
+ <param name="Search">1</param>
+ <param name="AdditionalFiles"></param>
+</group>
+</XMLConfig>

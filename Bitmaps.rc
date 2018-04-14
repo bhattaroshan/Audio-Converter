@@ -1,0 +1,22 @@
+
+#include"bitmaps.h"
+
+//AUDIO CONVERTER........................
+
+1213                       ICON     "AudioConverter.ico"
+
+IDI_TOOLBAR_REMOVE         ICON     "resources\\Remove.ico"
+IDI_TOOLBAR_ADDFILES       ICON     "resources\\Add Files.ico"
+IDI_TOOLBAR_ADDFOLDER      ICON     "resources\\Add Folder.ico"
+IDI_TOOLBAR_OUTPUTFOLDER   ICON     "resources\\Output Folder.ico"
+IDI_TOOLBAR_CONVERT        ICON     "resources\\Convert.ico"
+IDI_TOOLBAR_SETTINGS       ICON     "resources\\Settings.ico"
+IDI_TOOLBAR_HELP           ICON     "resources\\Help.ico"
+IDI_TOOLBAR_EXIT           ICON     "resources\\Exit.ico"
+
+
+IDI_LISTVIEW_MUSIC         ICON     "resources\\Music.ico"
+IDI_LISTVIEW_DONE          ICON     "resources\\done.ico"
+IDI_LISTVIEW_NOTDONE       ICON     "resources\\notdone.ico"
+
+

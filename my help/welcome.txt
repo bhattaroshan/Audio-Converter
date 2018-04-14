@@ -1,0 +1,17 @@
+This is the main window you get when you open RB Audio Converter.
+Using this software you can convert your different music files and
+save to different file formats that you want.
+
+Features of RB Audio Converter:
+1) You can convert your music files to different file formats with
+   different bitrates.
+2) You can pause your conversion if you are busy doing someother thing
+   as your computer may be slow during the conversion.
+3) You can close the converter or shutdown,restart,logoff etc. your converter
+   after the conversion complition automatically.
+4) You can change the menu colors and positions of the listview column and
+   save them as you like.
+5) You can see the progress of current file being converted as well as the progress
+   of total file to be converted.
+6) You can stop your conversion if you don't like it during the conversion process.
+7) you can add folders with extension to search required files for conversion.

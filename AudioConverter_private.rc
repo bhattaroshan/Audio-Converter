@@ -1,0 +1,16 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include "Bitmaps.rc"
+#include "AC_Menu.rc"
+#include "AC_Dialog.rc"
+
+A ICON MOVEABLE PURE LOADONCALL DISCARDABLE "AudioConverter.ico"
+
+//
+// SUPPORT FOR WINDOWS XP THEMES:
+// THIS WILL MAKE THE PROGRAM USE THE COMMON CONTROLS
+// LIBRARY VERSION 6.0 (IF IT IS AVAILABLE)
+//
+1 24 "AudioConverter.exe.Manifest"
+
